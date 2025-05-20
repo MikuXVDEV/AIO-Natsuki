@@ -1,0 +1,7 @@
+aiogram
+pydantic_settings
+pydantic
+ollama
+loguru
+opencv-python
+pillow
