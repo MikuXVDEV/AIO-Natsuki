@@ -3,7 +3,8 @@
 
 Устанока:
 !рекомендуемая версия пайтона: 3.10
-pip install -r requirements.txt
-python -m AIO-Natsuki
+
+1. **pip install -r requirements.txt**
+2. **python -m AIO-Natsuki**
 
 Имя папки не стоит менять, иначе полетят некоторые модули.
